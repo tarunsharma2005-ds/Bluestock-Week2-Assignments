@@ -1,0 +1,4 @@
+userId,id,title,body
+1,1,Sample title 1,Sample body for demonstration only
+1,2,Sample title 2,Another sample body for demonstration only
+2,3,Sample title 3,Sample text; replace this file by running the API script
